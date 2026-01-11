@@ -1,11 +1,11 @@
-# 🎓 Üniversite Öğrenci Yönetim Sistemi  
+#  Üniversite Öğrenci Yönetim Sistemi  
 **SQL & Power BI Analiz Projesi**
 Öğrenci kayıtları, ders seçimleri, notlandırma ve akademisyen yükleri SQL ile modellenmiş,  
 Power BI ile analiz edilerek görsel raporlar oluşturulmuştur.
 
 ---
 
-## 🎯 Projenin Amacı
+##  Projenin Amacı
 
 - Üniversite öğrenci ve akademik verilerini ilişkisel veritabanında yönetmek  
 - Öğrenci başarı durumlarını analiz etmek  
@@ -14,7 +14,7 @@ Power BI ile analiz edilerek görsel raporlar oluşturulmuştur.
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **SQL Server**
 - **T-SQL**
